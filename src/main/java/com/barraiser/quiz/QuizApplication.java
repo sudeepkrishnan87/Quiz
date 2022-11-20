@@ -1,6 +1,6 @@
-package com.barraiser.quiz.quiz;
+package com.barraiser.quiz;
 
-import com.barraiser.quiz.quiz.modal.QuestionBank;
+import com.barraiser.quiz.modal.QuestionBank;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -13,10 +13,4 @@ public class QuizApplication {
 		SpringApplication.run(QuizApplication.class, args);
 		//System.out.println("hi");
 	}
-	@Bean
-	public QuestionBank creaQuestionBank()
-	{
-		return new QuestionBank();
-	}
-
 }

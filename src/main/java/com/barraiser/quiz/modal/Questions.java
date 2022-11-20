@@ -1,4 +1,4 @@
-package com.barraiser.quiz.quiz.modal;
+package com.barraiser.quiz.modal;
 
 import lombok.Data;
 
