@@ -8,4 +8,4 @@
 - output of api
   {"id":4,"questions":"Capital of India","options":"Delhi,Mumbai","correctAns":1}
 
-
+  

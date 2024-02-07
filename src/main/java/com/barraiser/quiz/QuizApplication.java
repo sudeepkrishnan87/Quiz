@@ -8,9 +8,7 @@ import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 public class QuizApplication {
-
 	public static void main(String[] args) {
 		SpringApplication.run(QuizApplication.class, args);
-		//System.out.println("hi");
 	}
 }
